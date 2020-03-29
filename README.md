@@ -10,7 +10,7 @@ Designed for a fluent and clear workflow based on the [Nord](https://github.com/
 
 Download this file and place it alongside your kitty config file.
 ```
-$ curl -o ~/.config/kitty/ https://raw.githubusercontent.com/connorholyday/nord-kitty/master/nord.conf
+$ curl -o ~/.config/kitty/nord.conf https://raw.githubusercontent.com/connorholyday/nord-kitty/master/nord.conf
 ```
 
 Place this line at the bottom of your config file:
