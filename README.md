@@ -17,7 +17,7 @@ Place this line at the bottom of your config file:
 ```
 # ~/.config/kitty/kitty.conf
 
-include nord.conf
+include ./nord.conf
 ```
 
 ## License
